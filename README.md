@@ -1,8 +1,8 @@
 # NewBie
 
-0. 介紹喜歡的作品 --HTML
-0. MarkDown
-0. Ruby&Rails
+0. (almost done)_介紹喜歡的作品 --HTML_
+0. (almost done)_MarkDown_
+0. (errors occur)Ruby&Rails
 0. Hello World
 
 期中考中
