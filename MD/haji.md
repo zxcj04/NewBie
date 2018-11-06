@@ -12,10 +12,15 @@
 
 ![image alt](https://imgur.com/Ccf31LD.jpg=300x200)
 (鎖部一族的公主 -**鎖部葉風**)
+
+
 ![image alt](https://imgur.com/6oFKQ3P.jpg=200x200)
 (鎖部一族主要人物)
+
+
 ![image alt](https://imgur.com/JL9Jz6m.jpg=200*200)
 (主角群)
+
 
 時常引用莎士比雅歌劇中的詞句來貫穿劇情，在轉折時更由悲劇的**哈姆雷特**轉成喜劇結尾的**暴風雨**
 
