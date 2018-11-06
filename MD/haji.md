@@ -8,18 +8,20 @@
 
 內容主要是說這個世界被兩個大樹所支配，**起始之樹**及**絕園之樹**，在幾百年前的大戰中，起始之樹打敗了絕園之樹，進而讓絕園之樹陷入沈睡。  
 
-而大戰之後，起始之樹選擇了也進入沈睡來恢復力量，並讓鎖部一族成為祂的代言人，擁有部分它的力量，為對抗絕園之樹做準備。
+而大戰之後，起始之樹選擇了也進入沈睡來恢復力量，並讓鎖部一族成為祂的代言人，擁有部分祂的力量，為對抗絕園之樹做準備。
 
 ![image alt](https://imgur.com/Ccf31LD.jpg). 
 
 (鎖部一族的公主 -**鎖部葉風**)
 
 
-![image alt](https://imgur.com/6oFKQ3P.jpg)
+![image alt](https://imgur.com/6oFKQ3P.jpg). 
+
 (鎖部一族主要人物)
 
 
-![image alt](https://imgur.com/JL9Jz6m.jpg)
+![image alt](https://imgur.com/JL9Jz6m.jpg). 
+
 (主角群)
 
 
