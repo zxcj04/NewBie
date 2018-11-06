@@ -1,7 +1,7 @@
 # NewBie
 
 0. (done)_介紹喜歡的作品 --HTML_
-0. (almost done)_MarkDown_
+0. (done)_MarkDown_
 0. (done)_Ruby&Rails_
 0. (done)_Hello World_
 
