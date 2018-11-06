@@ -4,7 +4,7 @@
 
 這是一部日本動漫
 
-![image alt](https://imgur.com/7VM3dhm.jpg)
+![image alt](https://imgur.com/7VM3dhm.jpg width=500 height=200)
 
 內容主要是說這個世界被兩個大樹所支配，**起始之樹**及**絕園之樹**，在幾百年前的大戰中，起始之樹打敗了絕園之樹，進而讓絕園之樹陷入沈睡。  
 
