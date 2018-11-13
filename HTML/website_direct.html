@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>website redirecting...</title>
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<!--  <link rel="stylesheet" href="/resources/demos/style.css">  -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#datepicker" ).datepicker();
+  } );
+  </script>
+</head>
+<body bgcolor="#FFFFCC">
+ 
+<p id=date>我的生日: <input type="text" id="datepicker"></p>
+
+<button id=but>GO</button>
+
+<button id=reset onclick=do_reset()>reset</button>
+
+<script>
+    $("p")
+        .hide()
+        .slideDown();
+
+    $("#date")
+        .css(
+        {  
+            border: "1px solid green",  
+            height: "40px"  
+        })
+
+    document.getElementById("but").onclick = function() {myf()};
+
+    function do_reset()
+    {
+        document.getElementById("datepicker").value="";
+    }
+
+    function myf()
+    {
+        var a = 0;
+        var date = Date.parse($("#datepicker").val());
+        var sz = $.datepicker.formatDate('yymmdd', new Date(date));
+
+        var Today=new Date();
+　      var now = $.datepicker.formatDate('yymmdd', new Date(Today));       
+
+         if(now - sz < 180000)
+             document.location.href="https://disney.com.tw";
+         else
+             document.location.href="https://e-hentai.org";
+    }
+
+</script>
+
+</body>
+</html>
