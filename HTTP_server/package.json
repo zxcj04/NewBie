@@ -1,0 +1,24 @@
+{
+  "name": "zxcj04",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxcj04/NewBie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zxcj04/NewBie/issues"
+  },
+  "homepage": "https://github.com/zxcj04/NewBie#readme"
+}
